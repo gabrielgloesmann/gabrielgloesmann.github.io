@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Gabriel Glösmann</title>
+    <link>https://gabrielgloesmann.github.io/posts/</link>
+    <description>Recent content in Posts on Gabriel Glösmann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Introduction</title>
+      <link>https://gabrielgloesmann.github.io/posts/git/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/git/</guid>
+      <description>Introduction to Git</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Docker</title>
+      <link>https://gabrielgloesmann.github.io/posts/docker/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/docker/</guid>
+      <description>Introduction to Docker and some useful hints.</description>
+    </item>
+    
+    <item>
+      <title>JSON Introduction</title>
+      <link>https://gabrielgloesmann.github.io/posts/json/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/json/</guid>
+      <description>Introduction to JSON</description>
+    </item>
+    
+    <item>
+      <title>LateX Introduction</title>
+      <link>https://gabrielgloesmann.github.io/posts/latex/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/latex/</guid>
+      <description>Introduction to LateX</description>
+    </item>
+    
+    <item>
+      <title>Markdown Introduction</title>
+      <link>https://gabrielgloesmann.github.io/posts/markdown/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/markdown/</guid>
+      <description>Introduction to MArkdown</description>
+    </item>
+    
+    <item>
+      <title>YAML Introduction</title>
+      <link>https://gabrielgloesmann.github.io/posts/yaml/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/yaml/</guid>
+      <description>Introduction to YAML</description>
+    </item>
+    
+  </channel>
+</rss>

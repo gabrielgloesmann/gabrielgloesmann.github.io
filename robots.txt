@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gabrielgloesmann.github.io/sitemap.xml

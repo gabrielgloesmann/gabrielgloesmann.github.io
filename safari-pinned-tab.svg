@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg x="0pt" y="0pt" width="3146pt" height="3146pt" viewBox="0 0 3146 3146" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="1">
+    <title>Layer 1</title>
+    <clipPath id="3">
+      <use xlink:href="#2"/>
+      <path id="2" d="M0,0 C0,0,3146,0,3146,0 C3146,0,3146,3146,3146,3146 C3146,3146,0,3146,0,3146 C0,3146,0,0,0,0 z"/>
+    </clipPath>
+    <g id="4" style="clip-path:url(#3);">
+      <title>Clipping Group</title>
+      <g id="5">
+        <title>Group</title>
+        <defs>
+          <title>Shape 1</title>
+          <g id="6">
+            <defs>
+              <path id="7" d="M0,1572.5 C0,2096.67,0,2620.83,0,3145 C524.167,3145,1048.33,3145,1572.5,3145 C2096.67,3145,2620.83,3145,3145,3145 C3145,2620.83,3145,2096.67,3145,1572.5 C3145,1048.33,3145,524.167,3145,0 C2620.83,0,2096.67,0,1572.5,0 C1048.33,0,524.167,0,0,0 C0,524.167,0,1048.33,0,1572.5 z"/>
+            </defs>
+            <use xlink:href="#7" style="fill:#1c1d20;fill-opacity:1;fill-rule:evenodd;opacity:1;stroke:none;"/>
+          </g>
+        </defs>
+        <use xlink:href="#6"/>
+      </g>
+    </g>
+    <clipPath id="9">
+      <use xlink:href="#8"/>
+      <path id="8" d="M0,0 C0,0,3146,0,3146,0 C3146,0,3146,3146,3146,3146 C3146,3146,0,3146,0,3146 C0,3146,0,0,0,0 z"/>
+    </clipPath>
+    <g id="10" style="clip-path:url(#9);"/>
+  </g>
+</svg>
