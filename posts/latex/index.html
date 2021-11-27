@@ -68,10 +68,10 @@ Introduction to LateX
 <div class=post-meta><span title="2021-11-08 00:00:00 +0000 UTC">November 8, 2021</span>&nbsp;·&nbsp;Gabriel Glösmann
 </div>
 </header>
-<div class=post-content><h1 id=formulas>Formulas<a hidden class=anchor aria-hidden=true href=#formulas>#</a></h1>
-<h2 id=inline>Inline<a hidden class=anchor aria-hidden=true href=#inline>#</a></h2>
+<div class=post-content><h2 id=formulas>Formulas<a hidden class=anchor aria-hidden=true href=#formulas>#</a></h2>
+<h3 id=inline>Inline<a hidden class=anchor aria-hidden=true href=#inline>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#e6db74>$</span>\{<span style=color:#f92672>+</span><span style=color:#ae81ff>1</span>, <span style=color:#f92672>-</span><span style=color:#ae81ff>1</span>\}<span style=color:#e6db74>$</span>
-</code></pre></div><h2 id=numbered>Numbered<a hidden class=anchor aria-hidden=true href=#numbered>#</a></h2>
+</code></pre></div><h3 id=numbered>Numbered<a hidden class=anchor aria-hidden=true href=#numbered>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{equation}
 H_4 =
 <span style=color:#66d9ef>\begin</span>{bmatrix}
@@ -81,7 +81,7 @@ H_4 =
   1 &amp; -1 &amp; -1 &amp; 1 <span style=color:#66d9ef>\\</span>
 <span style=color:#66d9ef>\end</span>{bmatrix}
 <span style=color:#66d9ef>\end</span>{equation}
-</code></pre></div><h2 id=matrix>Matrix<a hidden class=anchor aria-hidden=true href=#matrix>#</a></h2>
+</code></pre></div><h3 id=matrix>Matrix<a hidden class=anchor aria-hidden=true href=#matrix>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex>H_4 =
 <span style=color:#66d9ef>\begin</span>{bmatrix}
   1 &amp; 1 &amp; 1 &amp; 1 <span style=color:#66d9ef>\\</span>
@@ -89,41 +89,41 @@ H_4 =
   1 &amp; 1 &amp; -1 &amp; -1 <span style=color:#66d9ef>\\</span>
   1 &amp; -1 &amp; -1 &amp; 1 <span style=color:#66d9ef>\\</span>
 <span style=color:#66d9ef>\end</span>{bmatrix}
-</code></pre></div><h1 id=pictures>Pictures<a hidden class=anchor aria-hidden=true href=#pictures>#</a></h1>
-<h2 id=width>Width<a hidden class=anchor aria-hidden=true href=#width>#</a></h2>
+</code></pre></div><h2 id=pictures>Pictures<a hidden class=anchor aria-hidden=true href=#pictures>#</a></h2>
+<h3 id=width>Width<a hidden class=anchor aria-hidden=true href=#width>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{figure}[!htbp]
 <span style=color:#66d9ef>\centering</span>
 <span style=color:#66d9ef>\includegraphics</span><span style=color:#a6e22e>[width=0.5\linewidth]</span>{fig01.png}
 <span style=color:#66d9ef>\caption</span>{Visuelle Darstellung einer Hadamard Matrix}<span style=color:#66d9ef>\label</span>{pic01}
 <span style=color:#66d9ef>\end</span>{figure}
-</code></pre></div><h2 id=scale>Scale<a hidden class=anchor aria-hidden=true href=#scale>#</a></h2>
+</code></pre></div><h3 id=scale>Scale<a hidden class=anchor aria-hidden=true href=#scale>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{figure}[!htbp]
 <span style=color:#66d9ef>\centering</span>
 <span style=color:#66d9ef>\includegraphics</span><span style=color:#a6e22e>[width=0.5\linewidth]</span>{fig01.png}
 <span style=color:#66d9ef>\caption</span>{Visuelle Darstellung einer Hadamard Matrix}<span style=color:#66d9ef>\label</span>{pic01}
 <span style=color:#66d9ef>\end</span>{figure}
-</code></pre></div><h2 id=picture-in-fixed-position>Picture in fixed Position<a hidden class=anchor aria-hidden=true href=#picture-in-fixed-position>#</a></h2>
+</code></pre></div><h3 id=picture-in-fixed-position>Picture in fixed Position<a hidden class=anchor aria-hidden=true href=#picture-in-fixed-position>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\usepackage</span>{float}
 <span style=color:#66d9ef>\begin</span>{figure}[H]
-</code></pre></div><h1 id=code>Code<a hidden class=anchor aria-hidden=true href=#code>#</a></h1>
+</code></pre></div><h2 id=code>Code<a hidden class=anchor aria-hidden=true href=#code>#</a></h2>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{verbatim}
 H = hadamard(4);
 H(H&lt;0) = 0;
 H(H&lt;0) = 255;
 figure, imshow(uint8(H));
 <span style=color:#66d9ef>\end</span>{verbatim}<span style=color:#66d9ef>\label</span>{code01}
-</code></pre></div><h1 id=lists>Lists<a hidden class=anchor aria-hidden=true href=#lists>#</a></h1>
-<h2 id=numbering>Numbering<a hidden class=anchor aria-hidden=true href=#numbering>#</a></h2>
+</code></pre></div><h2 id=lists>Lists<a hidden class=anchor aria-hidden=true href=#lists>#</a></h2>
+<h3 id=numbering>Numbering<a hidden class=anchor aria-hidden=true href=#numbering>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{enumerate}
     <span style=color:#66d9ef>\item</span> A
     <span style=color:#66d9ef>\item</span> B
 <span style=color:#66d9ef>\end</span>{enumerate}
-</code></pre></div><h2 id=items>Items<a hidden class=anchor aria-hidden=true href=#items>#</a></h2>
+</code></pre></div><h3 id=items>Items<a hidden class=anchor aria-hidden=true href=#items>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{itemize}
     <span style=color:#66d9ef>\item</span> A
     <span style=color:#66d9ef>\item</span> B
 <span style=color:#66d9ef>\end</span>{itemize}
-</code></pre></div><h2 id=sub-list>Sub List<a hidden class=anchor aria-hidden=true href=#sub-list>#</a></h2>
+</code></pre></div><h3 id=sub-list>Sub List<a hidden class=anchor aria-hidden=true href=#sub-list>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\begin</span>{itemize}
     <span style=color:#66d9ef>\item</span> A
     <span style=color:#66d9ef>\begin</span>{itemize}
@@ -132,10 +132,10 @@ figure, imshow(uint8(H));
     <span style=color:#66d9ef>\end</span>{itemize}
     <span style=color:#66d9ef>\item</span> B
 <span style=color:#66d9ef>\end</span>{itemize}
-</code></pre></div><h1 id=bibliography>Bibliography<a hidden class=anchor aria-hidden=true href=#bibliography>#</a></h1>
-<h2 id=item>Item<a hidden class=anchor aria-hidden=true href=#item>#</a></h2>
+</code></pre></div><h2 id=bibliography>Bibliography<a hidden class=anchor aria-hidden=true href=#bibliography>#</a></h2>
+<h3 id=item>Item<a hidden class=anchor aria-hidden=true href=#item>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\bibitem</span>{b01} M. Mustermann, Error Correcting Codes, MIT.
-</code></pre></div><h2 id=cite>Cite<a hidden class=anchor aria-hidden=true href=#cite>#</a></h2>
+</code></pre></div><h3 id=cite>Cite<a hidden class=anchor aria-hidden=true href=#cite>#</a></h3>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-latex data-lang=latex><span style=color:#66d9ef>\cite</span>{b01}
 
 </code></pre></div><h1 id=references>References<a hidden class=anchor aria-hidden=true href=#references>#</a></h1>
