@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://gabrielgloesmann.github.io/tags/development/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Docker</title>
       <link>https://gabrielgloesmann.github.io/tags/docker/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
@@ -57,33 +48,6 @@
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PaaS</title>
-      <link>https://gabrielgloesmann.github.io/tags/paas/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/tags/paas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Server</title>
-      <link>https://gabrielgloesmann.github.io/tags/server/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/tags/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Virtualization</title>
-      <link>https://gabrielgloesmann.github.io/tags/virtualization/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/tags/virtualization/</guid>
       <description></description>
     </item>
     
