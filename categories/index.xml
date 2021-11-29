@@ -43,11 +43,20 @@
     </item>
     
     <item>
-      <title>PaaS</title>
-      <link>https://gabrielgloesmann.github.io/categories/paas/</link>
+      <title>Server</title>
+      <link>https://gabrielgloesmann.github.io/categories/server/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielgloesmann.github.io/categories/paas/</guid>
+      <guid>https://gabrielgloesmann.github.io/categories/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualization</title>
+      <link>https://gabrielgloesmann.github.io/categories/virtualization/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/virtualization/</guid>
       <description></description>
     </item>
     
