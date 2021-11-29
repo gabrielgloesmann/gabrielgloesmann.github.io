@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Markdown on Gabriel Glösmann</title>
-    <link>https://gabrielgloesmann.github.io/tags/markdown/</link>
-    <description>Recent content in Markdown on Gabriel Glösmann</description>
+    <title>Typesetting on Gabriel Glösmann</title>
+    <link>https://gabrielgloesmann.github.io/tags/typesetting/</link>
+    <description>Recent content in Typesetting on Gabriel Glösmann</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/tags/typesetting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
       <link>https://gabrielgloesmann.github.io/posts/markdown/</link>

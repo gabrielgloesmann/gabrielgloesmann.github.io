@@ -52,7 +52,7 @@
     </item>
     
     <item>
-      <title>markdown</title>
+      <title>Markdown</title>
       <link>https://gabrielgloesmann.github.io/tags/markdown/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
@@ -75,6 +75,15 @@
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typesetting</title>
+      <link>https://gabrielgloesmann.github.io/tags/typesetting/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/tags/typesetting/</guid>
       <description></description>
     </item>
     
