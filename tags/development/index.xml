@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction to Docker</title>
+      <title>Docker</title>
       <link>https://gabrielgloesmann.github.io/posts/docker/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/posts/docker/</guid>
-      <description>Introduction to Docker and some useful hints.</description>
+      <description>Introduction to Docker</description>
     </item>
     
   </channel>
