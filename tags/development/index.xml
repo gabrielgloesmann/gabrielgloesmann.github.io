@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>JSON</title>
+      <link>https://gabrielgloesmann.github.io/posts/json/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/json/</guid>
+      <description>Introduction to JSON</description>
+    </item>
+    
+    <item>
       <title>YAML</title>
       <link>https://gabrielgloesmann.github.io/posts/yaml/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
