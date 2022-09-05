@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>https://gabrielgloesmann.github.io/categories/docker/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://gabrielgloesmann.github.io/categories/git/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
@@ -34,29 +43,11 @@
     </item>
     
     <item>
-      <title>Server</title>
-      <link>https://gabrielgloesmann.github.io/categories/server/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/categories/server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Typewriting</title>
       <link>https://gabrielgloesmann.github.io/categories/typewriting/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/categories/typewriting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Virtualization</title>
-      <link>https://gabrielgloesmann.github.io/categories/virtualization/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/categories/virtualization/</guid>
       <description></description>
     </item>
     
