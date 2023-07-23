@@ -16,47 +16,47 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://gabrielgloesmann.github.io/categories/docker/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <title>YAML</title>
+      <link>https://gabrielgloesmann.github.io/categories/yaml/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielgloesmann.github.io/categories/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://gabrielgloesmann.github.io/categories/json/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/categories/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LateX</title>
-      <link>https://gabrielgloesmann.github.io/categories/latex/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/categories/latex/</guid>
+      <guid>https://gabrielgloesmann.github.io/categories/yaml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
       <link>https://gabrielgloesmann.github.io/categories/markdown/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/categories/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>YAML</title>
-      <link>https://gabrielgloesmann.github.io/categories/yaml/</link>
+      <title>LateX</title>
+      <link>https://gabrielgloesmann.github.io/categories/latex/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://gabrielgloesmann.github.io/categories/json/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://gabrielgloesmann.github.io/categories/docker/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielgloesmann.github.io/categories/yaml/</guid>
+      <guid>https://gabrielgloesmann.github.io/categories/docker/</guid>
       <description></description>
     </item>
     

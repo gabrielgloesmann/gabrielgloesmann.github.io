@@ -16,48 +16,48 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://gabrielgloesmann.github.io/posts/docker/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <title>YAML</title>
+      <link>https://gabrielgloesmann.github.io/posts/yaml/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielgloesmann.github.io/posts/docker/</guid>
-      <description>Introduction to Docker</description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://gabrielgloesmann.github.io/posts/json/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/posts/json/</guid>
-      <description>Introduction to JSON</description>
-    </item>
-    
-    <item>
-      <title>LateX</title>
-      <link>https://gabrielgloesmann.github.io/posts/latex/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/posts/latex/</guid>
-      <description>Introduction to LateX</description>
+      <guid>https://gabrielgloesmann.github.io/posts/yaml/</guid>
+      <description>Introduction to YAML</description>
     </item>
     
     <item>
       <title>Markdown</title>
       <link>https://gabrielgloesmann.github.io/posts/markdown/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/posts/markdown/</guid>
       <description>Introduction to Markdown</description>
     </item>
     
     <item>
-      <title>YAML</title>
-      <link>https://gabrielgloesmann.github.io/posts/yaml/</link>
+      <title>LateX</title>
+      <link>https://gabrielgloesmann.github.io/posts/latex/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/latex/</guid>
+      <description>Introduction to LateX</description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://gabrielgloesmann.github.io/posts/json/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/json/</guid>
+      <description>Introduction to JSON</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://gabrielgloesmann.github.io/posts/docker/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gabrielgloesmann.github.io/posts/yaml/</guid>
-      <description>Introduction to YAML</description>
+      <guid>https://gabrielgloesmann.github.io/posts/docker/</guid>
+      <description>Introduction to Docker</description>
     </item>
     
   </channel>
