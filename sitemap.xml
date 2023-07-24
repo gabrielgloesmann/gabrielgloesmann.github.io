@@ -41,6 +41,12 @@
     <loc>https://gabrielgloesmann.github.io/posts/markdown/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gabrielgloesmann.github.io/categories/azure/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabrielgloesmann.github.io/posts/azure/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gabrielgloesmann.github.io/categories/docker/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -64,8 +70,6 @@
   </url><url>
     <loc>https://gabrielgloesmann.github.io/posts/json/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabrielgloesmann.github.io/posts/azure/</loc>
   </url><url>
     <loc>https://gabrielgloesmann.github.io/tags/</loc>
   </url>

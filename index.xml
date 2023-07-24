@@ -43,6 +43,15 @@
     </item>
     
     <item>
+      <title>Azure</title>
+      <link>https://gabrielgloesmann.github.io/posts/azure/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/azure/</guid>
+      <description>Introduction to Azure</description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>https://gabrielgloesmann.github.io/posts/docker/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
@@ -76,15 +85,6 @@
       
       <guid>https://gabrielgloesmann.github.io/posts/json/</guid>
       <description>Introduction to JSON</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gabrielgloesmann.github.io/posts/azure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/posts/azure/</guid>
-      <description>General Azure is a cloud computing platform and service provided by Microsoft. It offers a wide range of cloud-based services such as virtual machines, databases, storage, networking, artificial intelligence, and more. Azure allows individuals and organizations to build, deploy, and manage applications and services on a global network of Microsoft-managed data centers. It supports various programming languages, frameworks, and operating systems, and it is commonly used for developing, testing, and deploying applications, as well as for data storage, backup and recovery, and analysis.</description>
     </item>
     
   </channel>
