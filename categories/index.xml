@@ -7,11 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>GiLab</title>
+      <link>https://gabrielgloesmann.github.io/categories/gilab/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/gilab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://gabrielgloesmann.github.io/categories/git/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://gabrielgloesmann.github.io/categories/github/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/github/</guid>
       <description></description>
     </item>
     
@@ -34,6 +52,15 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>https://gabrielgloesmann.github.io/categories/docker/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LateX</title>
       <link>https://gabrielgloesmann.github.io/categories/latex/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
@@ -48,15 +75,6 @@
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/categories/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://gabrielgloesmann.github.io/categories/docker/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/categories/docker/</guid>
       <description></description>
     </item>
     

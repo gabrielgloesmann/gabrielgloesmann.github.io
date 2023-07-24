@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>https://gabrielgloesmann.github.io/posts/docker/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/posts/docker/</guid>
+      <description>Introduction to Docker</description>
+    </item>
+    
+    <item>
       <title>LateX</title>
       <link>https://gabrielgloesmann.github.io/posts/latex/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
@@ -49,15 +58,6 @@
       
       <guid>https://gabrielgloesmann.github.io/posts/json/</guid>
       <description>Introduction to JSON</description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://gabrielgloesmann.github.io/posts/docker/</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/posts/docker/</guid>
-      <description>Introduction to Docker</description>
     </item>
     
   </channel>
