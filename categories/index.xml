@@ -5,7 +5,16 @@
     <link>https://gabrielgloesmann.github.io/categories/</link>
     <description>Recent content in Categories on Gabriel Glösmann</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielgloesmann.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://gabrielgloesmann.github.io/categories/python/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>GiLab</title>
       <link>https://gabrielgloesmann.github.io/categories/gilab/</link>
