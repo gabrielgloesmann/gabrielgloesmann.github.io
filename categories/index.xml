@@ -16,15 +16,6 @@
     </item>
     
     <item>
-      <title>GiLab</title>
-      <link>https://gabrielgloesmann.github.io/categories/gilab/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielgloesmann.github.io/categories/gilab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Git</title>
       <link>https://gabrielgloesmann.github.io/categories/git/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
@@ -39,6 +30,15 @@
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielgloesmann.github.io/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitLab</title>
+      <link>https://gabrielgloesmann.github.io/categories/gitlab/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielgloesmann.github.io/categories/gitlab/</guid>
       <description></description>
     </item>
     
